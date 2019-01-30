@@ -29,7 +29,7 @@ setup(
     url = "https://github.com/xmig/udpinflux",
 
     classifiers=[
-        "Development Status :: 1 - Beta",
+        "Development Status :: Beta",
         "Intended Audience :: Developers",
         "Programming Language :: Python",
         "Programming Language:: Python:: 3.7",
